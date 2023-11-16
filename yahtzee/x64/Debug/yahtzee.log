@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\missz\source\repos\Object Oriented Programming\yahtzee\Source.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\missz\source\repos\Object Oriented Programming\yahtzee\Source.cpp(36,10): error C2143: syntax error: missing ':' before ';'
+C:\Users\missz\source\repos\Object Oriented Programming\yahtzee\Source.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'void'

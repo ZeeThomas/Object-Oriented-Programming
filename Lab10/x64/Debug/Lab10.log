@@ -1,0 +1,14 @@
+﻿  Lab10.cpp
+C:\Users\missz\source\repos\Object Oriented Programming\Lab10\Lab10.cpp(39,11): warning C4101: 'holder': unreferenced local variable
+C:\Users\missz\source\repos\Object Oriented Programming\Lab10\Lab10.cpp(38,1): message : while compiling class template member function 'void myVector<char>::insertBeg(T)'
+          with
+          [
+              T=char
+          ]
+C:\Users\missz\source\repos\Object Oriented Programming\Lab10\Lab10.cpp(136,25): message : see reference to function template instantiation 'void myVector<char>::insertBeg(T)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\missz\source\repos\Object Oriented Programming\Lab10\Lab10.cpp(135,20): message : see reference to class template instantiation 'myVector<char>' being compiled
+  Lab10.vcxproj -> C:\Users\missz\source\repos\Object Oriented Programming\x64\Debug\Lab10.exe

@@ -1,0 +1,10 @@
+﻿  Zahria_Thomas_prob1_assignment1.cpp
+  Zahria_Thomas_prob2_assignment1.cpp
+  Zahria_Thomas_Prob3_Assignment1.cpp
+  Zahria_Thomas_prob4_assignment1.cpp
+C:\Users\missz\source\repos\Object Oriented Programming\Lab05\Zahria_Thomas_prob4_assignment1.cpp(15,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+Zahria_Thomas_prob2_assignment1.obj : error LNK2005: main already defined in Zahria_Thomas_prob1_assignment1.obj
+Zahria_Thomas_Prob3_Assignment1.obj : error LNK2005: main already defined in Zahria_Thomas_prob1_assignment1.obj
+Zahria_Thomas_prob4_assignment1.obj : error LNK2005: main already defined in Zahria_Thomas_prob1_assignment1.obj
+C:\Users\missz\source\repos\Object Oriented Programming\x64\Debug\Lab05.exe : fatal error LNK1169: one or more multiply defined symbols found

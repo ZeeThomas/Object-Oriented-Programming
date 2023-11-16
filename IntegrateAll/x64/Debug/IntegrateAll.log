@@ -1,0 +1,3 @@
+﻿  IntegrateAll.cpp
+C:\Users\missz\source\repos\Object Oriented Programming\IntegrateAll\IntegrateAll.cpp(20,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  IntegrateAll.vcxproj -> C:\Users\missz\source\repos\Object Oriented Programming\x64\Debug\IntegrateAll.exe

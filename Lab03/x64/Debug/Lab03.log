@@ -1,0 +1,7 @@
+﻿  Zahria_Thomas_PartA_Lab3.cpp
+  Zahria_Thomas_PartB_Lab3.cpp
+  Zahria_Thomas_PartC_Lab3.cpp
+  Generating Code...
+Zahria_Thomas_PartB_Lab3.obj : error LNK2005: main already defined in Zahria_Thomas_PartA_Lab3.obj
+Zahria_Thomas_PartC_Lab3.obj : error LNK2005: main already defined in Zahria_Thomas_PartA_Lab3.obj
+C:\Users\missz\source\repos\Object Oriented Programming\x64\Debug\Lab03.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,8 @@
+﻿  Lab08.cpp
+C:\Users\missz\source\repos\Object Oriented Programming\Lab08\Lab08.cpp(28,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\missz\source\repos\Object Oriented Programming\Lab08\Lab08.cpp(32,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\missz\source\repos\Object Oriented Programming\Lab08\Lab08.cpp(42,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\missz\source\repos\Object Oriented Programming\Lab08\Lab08.cpp(43,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\missz\source\repos\Object Oriented Programming\Lab08\Lab08.cpp(48,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\missz\source\repos\Object Oriented Programming\Lab08\Lab08.cpp(49,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab08.vcxproj -> C:\Users\missz\source\repos\Object Oriented Programming\x64\Debug\Lab08.exe

@@ -1,0 +1,3 @@
+﻿  lottery.cpp
+C:\Users\missz\source\repos\Object Oriented Programming\Lab 01\lottery.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab 01.vcxproj -> C:\Users\missz\source\repos\Object Oriented Programming\x64\Debug\Lab 01.exe

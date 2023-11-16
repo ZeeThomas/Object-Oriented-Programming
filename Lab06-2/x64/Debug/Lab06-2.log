@@ -1,0 +1,5 @@
+﻿  MyInteger.cpp
+  testMyInteger.cpp
+  Generating Code...
+C:\Users\missz\source\repos\Object Oriented Programming\Lab06-2\MyInteger.cpp(62): warning C4715: 'MyInteger::equals': not all control paths return a value
+  Lab06-2.vcxproj -> C:\Users\missz\source\repos\Object Oriented Programming\x64\Debug\Lab06-2.exe
